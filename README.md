@@ -186,3 +186,16 @@ tokenizer.save_pretrained("flan_t5_academic_final")
 ## 📜 License
 
 This project is intended for **educational and academic purposes only**.
+
+---
+
+## IMP - Colab notebook and pdf uploaded are not viewable directly needs to get downloaded otherwise view directly from google drive link shared : 🔗 <a href="https://colab.research.google.com/drive/14KQfs4fAviQDBljcC_SdCL5q6PxVenuT?usp=sharing">Link to notebook</a> 
+
+---
+
+## 📞 Contact
+
+**Subhankar Pandit**  
+**Full Stack Developer | Backend Engineer | AI/ML | Cloud**  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit   
